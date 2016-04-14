@@ -1,2 +1,4 @@
 # hello-world.
-GitHub Hello World
+Hello humans!!
+
+Kelsy here, trying out so github 
